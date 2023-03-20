@@ -1,5 +1,7 @@
 class script(object):
-    START_TXT = """<b>Hᴇʏ {} Just Send Movie Name + Year
+    START_TXT = """<b>Hᴇʏ {} 
+   
+   Just Send Movie Name + Year
     
 ನೀವು ಹುಡುಕುತ್ತಿರುವ ಮೂವಿ ಸಿಗದೆ ಇದ್ದರೆ @FDM_Admin_Bot  👈 ಸಂದೇಶ ಕಳುಹಿಸಿ</b>"""
 
