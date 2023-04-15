@@ -455,7 +455,7 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://skoklink.in/api'
+    url = f'https://tinyfy.in/api'
     params = {'api': SHORTNER_API,
               'url': link,
               }
